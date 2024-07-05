@@ -6,6 +6,14 @@ from telebot import types
 import subprocess
 import sys
 from pynput import keyboard
+from flask importflask, jsom, request
+
+logging.basic.config(level=login.DEBUG)
+
+app = flask(__name__)
+
+@app.route('/')
+def index():
 
 # Настройки Telegram
 TELEGRAM_TOKEN = '7457968994:AAGDFQHE2Mjw_-qHziGVI_Njm4PY7n9sSQc'

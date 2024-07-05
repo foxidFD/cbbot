@@ -1,1 +1,1 @@
-worker: pthon cb.py
+web: gunicorn app:app
