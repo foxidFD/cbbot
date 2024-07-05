@@ -1,0 +1,8 @@
+logging
+pyautogui
+tempfile
+telebot
+telebot
+subprocess
+sys
+pynput
